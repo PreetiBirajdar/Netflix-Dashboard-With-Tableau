@@ -5,6 +5,10 @@ This project focuses on creating a dashboard using Tableau to analyze and visual
 
 
 Dashboard Overview
+
+
+
+
 The Netflix dashboard provides visualizations and analysis on the following aspects:
 1. Total movies and shows by year: A line graph illustrating the number of movies and TV shows released each year, highlighting any trends or patterns.
 2. Total movies and shows by country: A map chart showcasing the distribution of movies and TV shows by country, offering insights into regional content production.
@@ -15,6 +19,9 @@ Description, duration, and ratings: Cards presenting detailed information about 
 
 
 Data Source
+
+
+
 The data used for this dashboard is sourced from Netflix and contains information on movies and TV shows available on the platform. The dataset includes attributes such as release year, country, genre, rating, description, duration, and ratings provided by users.
 
 
@@ -22,6 +29,9 @@ The data used for this dashboard is sourced from Netflix and contains informatio
 
 
 Technologies Used
+
+
+
 The following technologies and tools were utilized for this project:
 1. Tableau: Data visualization and business intelligence software used to create the interactive dashboard.
 2. Netflix dataset: The dataset containing Netflix content information, utilized for the analysis and visualization.
